@@ -11,7 +11,7 @@ The official website for **Travails of a Mother**, a prayer gathering convened b
 | Path | What's inside |
 |---|---|
 | `index.html`, `assets/` | The website |
-| `REVIEW-FOR-DR-EUNICE.md` | Review questions for Dr. Eunice. Each code (Q1–Q34) matches a gold "to confirm" marker on the draft site |
+| `REVIEW-FOR-DR-EUNICE.md` | Review questions for Dr. Eunice. Each code (Q1–Q38) matches a gold "to confirm" marker on the draft site |
 | `research/web-research.md` | Web and YouTube research, with a source for every fact |
 
 ## Draft status
