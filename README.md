@@ -3,6 +3,7 @@
 The official website for **Travails of a Mother**, a prayer gathering convened by **Dr. Eunice Naigaga Adubango (PhD)** that equips mothers around the world to travail in prayer for their children and for generations to come.
 
 **Next gathering:** 4th Edition · Saturday 20 February 2027 · 6:00am – 6:00pm · Hotel Africana, Kampala · Dress code: Scarlet Red
+**Live site:** https://sandraboyoaruleba.github.io/travails-of-a-mother/
 **Tickets:** https://karitickets.com/event/Travails_Of_A_Mother_4TH_EDITION
 
 ## What's in this repository
